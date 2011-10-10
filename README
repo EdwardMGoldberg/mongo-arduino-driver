@@ -1,0 +1,23 @@
+I have taken on the challenge of developing a Driver for the Arduino
+Library.  For people that have not heard about the Arduino this is a
+small "System On Chip" ( SOC ) based computer for about $30.00 that
+runs on very low power.
+
+Examples of Arduino use are:
+
+1) Robots that can navigate
+2) Very light computers for Lighter Than Aircraft
+3) Remote data Acquisition Nodes
+4) Remote Control System.
+
+When you add an Ethernet Chip the cost of the system is still under
+$50.00 for each node.
+
+If you have any ideas or projects with the Arduino and MongoDB.  I
+would like to collect all of this work into a Driver for MongoDB.
+
+I have submitted for a talk at MongoSV on the topic:  "Arduino MongoDB
+Driver".
+
+MongoDB is a great fit for logging data and remote data systems.  I
+look forward to your inputs.
